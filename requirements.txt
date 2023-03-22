@@ -1,1 +1,2 @@
 pyam-iamc >= 1.6
+matplotlib
