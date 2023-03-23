@@ -16,6 +16,8 @@ Building Workshop: the pyam package*
 This repository holds a [Jupyter notebook](tutorial-notebook.ipynb) for a live-demo of
 the **pyam** package given as part of the Vienna openmod workshop on March 22, 2023.
 
+**The slides for the talk can be found here: <https://zenodo.org/record/7757907>**.
+
 The Jupyter notebook is based on the *ENGAGE Capacity Building Workshop: the pyam
 package* (<https://github.com/danielhuppmann/ENGAGE-pyam-tutorial/>) which itself is
 based on the advanced assignment of the [Modelling
